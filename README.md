@@ -4,7 +4,7 @@ Repository removed, git-mediawiki was not the best solution:
 - I don't really need the full history of changes history, I just want an offline, current/recent version of the wiki
 - It requires a lot of disk space
 - It requires a lot of bandwith
-- It requires some server-side processing on archwiki side
+- It requires somethnig server-side processing on archwiki side
 - It only downloads the mediawiki markup, you still have to convert it to readable/HTML format with pandoc or similar
 - You can download a recent, precompiled HTML version of the wiki:
 
